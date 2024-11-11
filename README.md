@@ -1,0 +1,1 @@
+# krita-ot-plugin
